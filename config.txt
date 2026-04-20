@@ -1,0 +1,153 @@
+fuction () >
+setFuction : lock aim
+null : 999 , Target : HeadPlayer (SuperHight)
+Speed : true , Smooth : 30 (LockAim)
+Delay : 80 , Smooth Lock : true (hight)
+<LockHead>
+Slect.lock:X (true = HeadPlayer)
+Slect.lock:Y (true = HeadPlayer)
+Speed : true (hightSuper) = (999)
+Smooth : false (80)
+Delay : 80 (HeadPlayer)
+Smooth LockAim : true (Super)";
+{
+fuction () >
+setFuction : aim bot
+Target : HeadPlayer (SuperHight) ; 999
+Null : 9999 (Right)
+Speed : true , Smooth : 120 (HeadPlayer) ;(true)
+set.enter:data.Aim:X (true = HeadPlayer) = 0x337393
+set.enter:data.Aim:Y (true = HeadPlayer) = 0x374738 ;
+Smooth Aim : true (Hight);}
+fuction () >
+setFuction : Sensitivity
+Setting : Sensitivity (999)
+Speed : true (Smooth99)
+Smooth : 70 (Utimate)
+DragFOV : 90 (360)
+Fps :240 (Faser)
+#Aim_Drag
+set Aim Target: Head
+Drag Aim : Y : 1x
+Head Aim : Y 0.1x
+AimAndDrag
+# Cấu Hình Khoá Tâm;
+AntiRecoil=2
+CustomAim Drag=Head1
+Custom Sensitive Roll=1
+Traction Speed Control=4
+Shock=0
+Bounce=0
+HeadToAim=1
+Lock Zone:Type=Head
+Keep the Zone:Head
+#AntiSensiHight
+NoSensitivity=3
+Sensitivitydrag=0
+#Aimlock ob50
+LockHead=10
+HeadShot=6
+AutoAimHead=10
+AimSpeed=23
+AimHead=83
+Norecoil=10
+Fov=0
+AimLock=2x
+{
+#Cấu Hình Ob50 (setting)
+Prevent The Head Area=5
+Aim X Y = 2x 0y
+Increase The Pulling Speed=1
+Beep=0
+Shock=Faser
+No Shock=True
+Don't Shake My Heart=True
+Admire Her=True
+Stubborn=9
+}
+{
+  "trackId": 1300146617,
+  "trackName": "Free Fire",
+  "bundleId": "com.dts.freefireth",
+  "artistName": "GARENA INTERNATIONAL I PRIVATE LIMITED",
+  "version": "1.118.1",
+  "releaseDate": "2025-10-29T00:00:00Z",
+  "primaryGenreName": "Games",
+  "setting data" : "2",
+  "sensitivityApp" : "1",
+  "AimLockTrack" : "5",
+  "HeadLockTrikger" : "12"
+  "pointerSpeed" : "0.1",
+  "pointerCuver" : "1.77",
+  "FOV" : "120",
+  "AimBot" : "70",
+  "SensiHeadDrag" : "70",
+  "HeadSpeed" : "88",
+  "MouseSmooth" : "97",
+  "AimSpeed" : "20",
+  "MouseSpeed" : "1"
+<configration>
+#config data app:freefire
+"AimDrag= type:Head (Ngắm Kéo);"
+"Aim=Head (99) "Smooth=120"
+"Aimlock=type:Head "Value=100" "Smooth=240"
+Exactly=Smooth=240 (Motion)
+LockHead=99
+AimFov=12
+Drag=0
+Shock=0
+Headlock=98
+ShotHead=99
+Super Lock Head=100
+Aim Lock Head=999
+NoRecoilHead=99
+Fov Head=99
+AimLock=9
+AimHead=999
+AimNeck=999
+LockNeck=999
+NeckLock=99
+AimChest=99
+LockChest=99
+Head Suction Force=87
+Head Obstance=99
+STOP AT THE TOP POSITION=99
+LIGHTLY UP=99
+Quick Pull=33
+Head Resistance=88
+Ignore The Body=true
+Smooth Pull=999
+AimSmooth=9
+Stick To The Head=99
+#Speed Drag
+AimLock=100
+AimHead=100
+HeadLock=100
+AimFov=100
+HeadShot=100
+AutoHeadShot=100
+ClickLockHead=100
+LockXY=100
+LockHeadXY=100
+AimBot=100
+AimAssits=100
+AimAssits1=100
+PointerClickAim=Head=100
+PointerClickLockHead=100
+PointerSmoothX=009
+PointerSmoothY=100
+PointerDragSensitivity=100
+PointerDragSensitivity=100
+LockSpeed=100
+AimLockHead=100
+AimBotHead=100
+AimFovHead=100
+Exactly=100
+Norecoil=100
+AimMira=100
+AimClick=100
+AimCLOCK=100
+SensiTivity=0.12.120.240.120 AimTuoch = 0.283.284.193.823 AimHead <0x138284824> x <0x1737284838> Aim Tuoch = {Head} X=2.0 Y=0 Tuoch HeadB = 2.0.729.274 SensivityTuoctivityTuoch=10.28.134.834.1000 Head AI=Head AimLock = 0x3748385838 x 0x27385893959 , HeadShot = 0x2747383 x 0x374838488 , AimHead = 13.82.90.180.240.1234.7394 , Sensitivity = 9x27473848384 , AimHeadTuoch = 9x3748385838583 , AimLong = 384848395 AimAssit = 0x37483848 x 0x3738483859
+AimAll = Head 
+
+
